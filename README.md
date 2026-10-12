@@ -19,17 +19,17 @@ My focus is on understanding cybersecurity risk, assessing security controls, do
 ## Projects
 
 ### 1. Cybersecurity Risk Register
-**Status:** Planned
+**Status:** Completed
 
 A simulated risk assessment documenting cybersecurity risks, likelihood, impact, risk ratings, risk owners, and remediation recommendations.
 
 ### 2. Security Control Assessment Matrix
-**Status:** Planned
+**Status:** Completed
 
 A practical exercise mapping selected security controls to evidence requirements, assessment procedures, and identified gaps.
 
 ### 3. Information Security Policy Package
-**Status:** Planned
+**Status:** In Progress
 
 A collection of sample security policies and procedures covering access control, responsibilities, and periodic reviews.
 
